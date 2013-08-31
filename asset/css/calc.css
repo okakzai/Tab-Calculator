@@ -1,0 +1,88 @@
+#container{
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	height: 500px;
+	background-image:url(../img/bodyBg.jpg);
+	background-repeat:repeat-x;
+	text-align: center;
+}
+#combobox{
+	float:right;
+	margin-right:15px;
+}
+#contentwrapper{
+	float: left;
+	width: 100%;
+	margin-top:3%;
+}
+#contentcolumn{
+	margin: 0 20% 0 20%;
+	width: 80%; 
+}
+.calc{
+	background-color: grey;
+}
+#leftcolumn{
+	float: left;
+	width: 20%; 
+	margin-left: -100%;
+	margin-top:3%;
+}
+.form{
+	background-color: cyan;
+}	
+.data1,.data2,.data3,.inefficiency,.revenue{
+	color:red;
+}
+.total,.section,.cut,.polish,.crew,.satu,.dua,.tiga,.empat,.lima,.othermat{
+	color:green;
+}
+.calculation1,.calculation2,.calculation3,.calculation4,.calculation5,.calculation6,.calculation8,.calculation9,.calculation10,.calculation11,.calculation12,.onesatu,.onedua,.onetiga,.oneempat,.onelima,.twosatu,.twodua,.twotiga,.twoempat,.twolima,.foursatu,.fourdua,.fourtiga,.fourempat,.fourlima,.fivesatu,.fivedua,.fivetiga,.fiveempat,.fivelima,.sixsatu,.sixdua,.sixtiga,.sixempat,.sixlima{
+	color:blue
+}
+.calculation13,.calculation14{
+	font-weight: bold;	
+}
+#calculation{
+	font-size: 13px;
+}
+#loading{
+	margin-left:15px;
+	float:left;
+	color:red;
+}
+#total,#inefficiency,#revenue{
+	color:red;
+}
+#result th{
+	border:solid 1px black;
+	background-color:cyan;
+}
+#result td{
+	border:solid 1px black;
+}
+#result table{
+	border-collapse: collapse;
+	font-size: 10px;
+}
+.threesatu,.threedua,.threetiga,.threeempat,.threelima{
+	color:purple;
+	font-weight:bold;
+}
+.laborcost1,.laborcost2,.laborcost3,.laborcost4,.laborcost5,.calculation7{
+	color:grey;
+	font-weight:bold;
+}
+#variable{
+	font-size:11px;
+}
+#variable .label{
+	padding-left:17px;
+}
+#variable .delim{
+	padding-left:29px;
+	padding-right:9px;
+}
+
